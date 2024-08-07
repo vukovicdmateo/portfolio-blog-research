@@ -3,3 +3,10 @@
         About page!
     </div>
 </template>
+
+<script setup lang="ts">
+definePageMeta({
+    // @ts-ignore
+    layout: "another"
+})
+</script>
