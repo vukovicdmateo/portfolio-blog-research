@@ -1,5 +1,5 @@
 ---
-title: 'Title of the page'
+title: 'First post on our website'
 description: 'meta description of the page'
 head:
   meta:
@@ -46,4 +46,4 @@ Tables:
 </html>
 ```
 
-[Go to the second article](/blog/second)
+[Go to the second article](/blog/vue-introduction)
